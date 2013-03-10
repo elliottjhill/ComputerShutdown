@@ -1,0 +1,742 @@
+STATUS | wrapper  | 2013/03/10 16:43:44 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:43:44 | Java Service Wrapper Professional Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:43:44 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:43:44 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:43:44 | 
+ERROR  | wrapper  | 2013/03/10 16:43:44 | License Error:
+ERROR  | wrapper  | 2013/03/10 16:43:44 | A valid license was not found in the Wrapper configuration file.
+ERROR  | wrapper  | 2013/03/10 16:43:44 | 
+ERROR  | wrapper  | 2013/03/10 16:43:44 | The Java Service Wrapper requires a License Key to activate the
+ERROR  | wrapper  | 2013/03/10 16:43:44 | software.  License Keys can be purchased on the Java Service Wrapper
+ERROR  | wrapper  | 2013/03/10 16:43:44 | web site:
+ERROR  | wrapper  | 2013/03/10 16:43:44 |   http://wrapper.tanukisoftware.com/purchase
+ERROR  | wrapper  | 2013/03/10 16:43:44 | 
+ERROR  | wrapper  | 2013/03/10 16:43:44 | You can also immediately obtain a one-month Free trial license:
+ERROR  | wrapper  | 2013/03/10 16:43:44 |   http://wrapper.tanukisoftware.com/trial
+ERROR  | wrapper  | 2013/03/10 16:43:44 | 
+ERROR  | wrapper  | 2013/03/10 16:43:44 | License Keys can be generated for any of the following HostIds.
+STATUS | wrapper  | 2013/03/10 16:43:44 |   HostId(s):
+STATUS | wrapper  | 2013/03/10 16:43:44 |     001d7d9f333e (#1)
+ERROR  | wrapper  | 2013/03/10 16:43:44 | 
+STATUS | wrapper  | 2013/03/10 16:43:44 | 
+STATUS | wrapper  | 2013/03/10 16:43:44 | Optional host name for license: Elliott-PC
+STATUS | wrapper  | 2013/03/10 16:43:44 | <-- Wrapper Stopped
+STATUS | wrapper  | 2013/03/10 16:43:56 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:43:56 | Java Service Wrapper Professional Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:43:56 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:43:56 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:43:56 | 
+ERROR  | wrapper  | 2013/03/10 16:43:56 | License Error:
+ERROR  | wrapper  | 2013/03/10 16:43:56 | A valid license was not found in the Wrapper configuration file.
+ERROR  | wrapper  | 2013/03/10 16:43:56 | 
+ERROR  | wrapper  | 2013/03/10 16:43:56 | The Java Service Wrapper requires a License Key to activate the
+ERROR  | wrapper  | 2013/03/10 16:43:56 | software.  License Keys can be purchased on the Java Service Wrapper
+ERROR  | wrapper  | 2013/03/10 16:43:56 | web site:
+ERROR  | wrapper  | 2013/03/10 16:43:56 |   http://wrapper.tanukisoftware.com/purchase
+ERROR  | wrapper  | 2013/03/10 16:43:56 | 
+ERROR  | wrapper  | 2013/03/10 16:43:56 | You can also immediately obtain a one-month Free trial license:
+ERROR  | wrapper  | 2013/03/10 16:43:56 |   http://wrapper.tanukisoftware.com/trial
+ERROR  | wrapper  | 2013/03/10 16:43:56 | 
+ERROR  | wrapper  | 2013/03/10 16:43:56 | License Keys can be generated for any of the following HostIds.
+STATUS | wrapper  | 2013/03/10 16:43:56 |   HostId(s):
+STATUS | wrapper  | 2013/03/10 16:43:56 |     001d7d9f333e (#1)
+ERROR  | wrapper  | 2013/03/10 16:43:56 | 
+STATUS | wrapper  | 2013/03/10 16:43:56 | 
+STATUS | wrapper  | 2013/03/10 16:43:56 | Optional host name for license: Elliott-PC
+STATUS | wrapper  | 2013/03/10 16:43:56 | <-- Wrapper Stopped
+STATUS | wrapper  | 2013/03/10 16:45:56 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:45:56 | Java Service Wrapper Community Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:45:56 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:45:56 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:45:56 | 
+STATUS | wrapper  | 2013/03/10 16:45:57 | Launching a JVM...
+INFO   | jvm 1    | 2013/03/10 16:45:57 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           could not be loaded:
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           Reported cause:
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 1    | 2013/03/10 16:45:58 | 
+INFO   | jvm 1    | 2013/03/10 16:45:58 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2013/03/10 16:45:58 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 1    | 2013/03/10 16:45:58 | 
+INFO   | jvm 1    | 2013/03/10 16:45:58 | Where:
+INFO   | jvm 1    | 2013/03/10 16:45:58 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2013/03/10 16:45:58 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2013/03/10 16:45:58 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:45:59 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:46:04 | Launching a JVM...
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           could not be loaded:
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           Reported cause:
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 2    | 2013/03/10 16:46:04 | 
+INFO   | jvm 2    | 2013/03/10 16:46:04 | WrapperSimpleApp Usage:
+INFO   | jvm 2    | 2013/03/10 16:46:04 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 2    | 2013/03/10 16:46:04 | 
+INFO   | jvm 2    | 2013/03/10 16:46:04 | Where:
+INFO   | jvm 2    | 2013/03/10 16:46:04 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 2    | 2013/03/10 16:46:04 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 2    | 2013/03/10 16:46:04 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:46:06 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:46:11 | Launching a JVM...
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager: Initializing...
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           could not be loaded:
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           Reported cause:
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 3    | 2013/03/10 16:46:11 | 
+INFO   | jvm 3    | 2013/03/10 16:46:11 | WrapperSimpleApp Usage:
+INFO   | jvm 3    | 2013/03/10 16:46:11 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 3    | 2013/03/10 16:46:11 | 
+INFO   | jvm 3    | 2013/03/10 16:46:11 | Where:
+INFO   | jvm 3    | 2013/03/10 16:46:11 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 3    | 2013/03/10 16:46:11 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 3    | 2013/03/10 16:46:11 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:46:13 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:46:17 | Launching a JVM...
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager: Initializing...
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           could not be loaded:
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           Reported cause:
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 4    | 2013/03/10 16:46:18 | 
+INFO   | jvm 4    | 2013/03/10 16:46:18 | WrapperSimpleApp Usage:
+INFO   | jvm 4    | 2013/03/10 16:46:18 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 4    | 2013/03/10 16:46:18 | 
+INFO   | jvm 4    | 2013/03/10 16:46:18 | Where:
+INFO   | jvm 4    | 2013/03/10 16:46:18 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 4    | 2013/03/10 16:46:18 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 4    | 2013/03/10 16:46:18 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:46:20 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:46:24 | Launching a JVM...
+INFO   | jvm 5    | 2013/03/10 16:46:24 | WrapperManager: Initializing...
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager: 
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           could not be loaded:
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           Reported cause:
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperManager: 
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 5    | 2013/03/10 16:46:25 | 
+INFO   | jvm 5    | 2013/03/10 16:46:25 | WrapperSimpleApp Usage:
+INFO   | jvm 5    | 2013/03/10 16:46:25 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 5    | 2013/03/10 16:46:25 | 
+INFO   | jvm 5    | 2013/03/10 16:46:25 | Where:
+INFO   | jvm 5    | 2013/03/10 16:46:25 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 5    | 2013/03/10 16:46:25 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 5    | 2013/03/10 16:46:25 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:46:26 | JVM exited while loading the application.
+FATAL  | wrapper  | 2013/03/10 16:46:27 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2013/03/10 16:46:27 |   There may be a configuration problem: please check the logs.
+STATUS | wrapper  | 2013/03/10 16:46:27 | <-- Wrapper Stopped
+STATUS | wrapper  | 2013/03/10 16:47:00 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:47:00 | Java Service Wrapper Community Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:47:00 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:47:00 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:47:00 | 
+STATUS | wrapper  | 2013/03/10 16:47:00 | Launching a JVM...
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           could not be loaded:
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           Reported cause:
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 1    | 2013/03/10 16:47:01 | 
+INFO   | jvm 1    | 2013/03/10 16:47:01 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2013/03/10 16:47:01 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 1    | 2013/03/10 16:47:01 | 
+INFO   | jvm 1    | 2013/03/10 16:47:01 | Where:
+INFO   | jvm 1    | 2013/03/10 16:47:01 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2013/03/10 16:47:01 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2013/03/10 16:47:01 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:47:02 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:47:07 | Launching a JVM...
+INFO   | jvm 2    | 2013/03/10 16:47:07 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2013/03/10 16:47:07 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:47:07 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 2    | 2013/03/10 16:47:07 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           could not be loaded:
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           Reported cause:
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 2    | 2013/03/10 16:47:08 | 
+INFO   | jvm 2    | 2013/03/10 16:47:08 | WrapperSimpleApp Usage:
+INFO   | jvm 2    | 2013/03/10 16:47:08 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 2    | 2013/03/10 16:47:08 | 
+INFO   | jvm 2    | 2013/03/10 16:47:08 | Where:
+INFO   | jvm 2    | 2013/03/10 16:47:08 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 2    | 2013/03/10 16:47:08 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 2    | 2013/03/10 16:47:08 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:47:09 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:47:14 | Launching a JVM...
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager: Initializing...
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           could not be loaded:
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           Reported cause:
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 3    | 2013/03/10 16:47:14 | 
+INFO   | jvm 3    | 2013/03/10 16:47:14 | WrapperSimpleApp Usage:
+INFO   | jvm 3    | 2013/03/10 16:47:14 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 3    | 2013/03/10 16:47:14 | 
+INFO   | jvm 3    | 2013/03/10 16:47:14 | Where:
+INFO   | jvm 3    | 2013/03/10 16:47:14 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 3    | 2013/03/10 16:47:14 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 3    | 2013/03/10 16:47:14 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:47:16 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:47:21 | Launching a JVM...
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager: Initializing...
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           could not be loaded:
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           Reported cause:
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 4    | 2013/03/10 16:47:21 | 
+INFO   | jvm 4    | 2013/03/10 16:47:21 | WrapperSimpleApp Usage:
+INFO   | jvm 4    | 2013/03/10 16:47:21 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 4    | 2013/03/10 16:47:21 | 
+INFO   | jvm 4    | 2013/03/10 16:47:21 | Where:
+INFO   | jvm 4    | 2013/03/10 16:47:21 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 4    | 2013/03/10 16:47:21 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 4    | 2013/03/10 16:47:21 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:47:23 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:47:27 | Launching a JVM...
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager: Initializing...
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager: 
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           could not be loaded:
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           Reported cause:
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperManager: 
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 5    | 2013/03/10 16:47:28 | 
+INFO   | jvm 5    | 2013/03/10 16:47:28 | WrapperSimpleApp Usage:
+INFO   | jvm 5    | 2013/03/10 16:47:28 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 5    | 2013/03/10 16:47:28 | 
+INFO   | jvm 5    | 2013/03/10 16:47:28 | Where:
+INFO   | jvm 5    | 2013/03/10 16:47:28 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 5    | 2013/03/10 16:47:28 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 5    | 2013/03/10 16:47:28 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:47:30 | JVM exited while loading the application.
+FATAL  | wrapper  | 2013/03/10 16:47:30 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2013/03/10 16:47:30 |   There may be a configuration problem: please check the logs.
+STATUS | wrapper  | 2013/03/10 16:47:30 | <-- Wrapper Stopped
+STATUS | wrapper  | 2013/03/10 16:50:19 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:50:19 | Java Service Wrapper Community Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:50:19 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:50:19 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:50:19 | 
+STATUS | wrapper  | 2013/03/10 16:50:20 | Launching a JVM...
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           could not be loaded:
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           Reported cause:
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 1    | 2013/03/10 16:50:20 | 
+INFO   | jvm 1    | 2013/03/10 16:50:20 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2013/03/10 16:50:20 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 1    | 2013/03/10 16:50:20 | 
+INFO   | jvm 1    | 2013/03/10 16:50:20 | Where:
+INFO   | jvm 1    | 2013/03/10 16:50:20 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2013/03/10 16:50:20 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2013/03/10 16:50:20 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:50:22 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:50:27 | Launching a JVM...
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           could not be loaded:
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           Reported cause:
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 2    | 2013/03/10 16:50:27 | 
+INFO   | jvm 2    | 2013/03/10 16:50:27 | WrapperSimpleApp Usage:
+INFO   | jvm 2    | 2013/03/10 16:50:27 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 2    | 2013/03/10 16:50:27 | 
+INFO   | jvm 2    | 2013/03/10 16:50:27 | Where:
+INFO   | jvm 2    | 2013/03/10 16:50:27 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 2    | 2013/03/10 16:50:27 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 2    | 2013/03/10 16:50:27 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:50:29 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:50:33 | Launching a JVM...
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager: Initializing...
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           could not be loaded:
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           Reported cause:
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 3    | 2013/03/10 16:50:34 | 
+INFO   | jvm 3    | 2013/03/10 16:50:34 | WrapperSimpleApp Usage:
+INFO   | jvm 3    | 2013/03/10 16:50:34 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 3    | 2013/03/10 16:50:34 | 
+INFO   | jvm 3    | 2013/03/10 16:50:34 | Where:
+INFO   | jvm 3    | 2013/03/10 16:50:34 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 3    | 2013/03/10 16:50:34 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 3    | 2013/03/10 16:50:34 |                   application.
+STATUS | wrapper  | 2013/03/10 16:50:35 | CTRL-C trapped.  Shutting down.
+WARN   | wrapper  | 2013/03/10 16:50:35 | JVM exited unexpectedly while stopping the application.
+STATUS | wrapper  | 2013/03/10 16:50:36 | <-- Wrapper Stopped
+STATUS | wrapper  | 2013/03/10 16:53:15 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:53:15 | Java Service Wrapper Community Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:53:15 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:53:15 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:53:15 | 
+STATUS | wrapper  | 2013/03/10 16:53:16 | Launching a JVM...
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           could not be loaded:
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           Reported cause:
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 1    | 2013/03/10 16:53:16 | 
+INFO   | jvm 1    | 2013/03/10 16:53:16 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2013/03/10 16:53:16 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 1    | 2013/03/10 16:53:16 | 
+INFO   | jvm 1    | 2013/03/10 16:53:16 | Where:
+INFO   | jvm 1    | 2013/03/10 16:53:16 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2013/03/10 16:53:16 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2013/03/10 16:53:16 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:53:18 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:53:23 | Launching a JVM...
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           could not be loaded:
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           Reported cause:
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 2    | 2013/03/10 16:53:23 | 
+INFO   | jvm 2    | 2013/03/10 16:53:23 | WrapperSimpleApp Usage:
+INFO   | jvm 2    | 2013/03/10 16:53:23 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 2    | 2013/03/10 16:53:23 | 
+INFO   | jvm 2    | 2013/03/10 16:53:23 | Where:
+INFO   | jvm 2    | 2013/03/10 16:53:23 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 2    | 2013/03/10 16:53:23 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 2    | 2013/03/10 16:53:23 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:53:25 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:53:29 | Launching a JVM...
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager: Initializing...
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           could not be loaded:
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           Reported cause:
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 3    | 2013/03/10 16:53:30 | 
+INFO   | jvm 3    | 2013/03/10 16:53:30 | WrapperSimpleApp Usage:
+INFO   | jvm 3    | 2013/03/10 16:53:30 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 3    | 2013/03/10 16:53:30 | 
+INFO   | jvm 3    | 2013/03/10 16:53:30 | Where:
+INFO   | jvm 3    | 2013/03/10 16:53:30 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 3    | 2013/03/10 16:53:30 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 3    | 2013/03/10 16:53:30 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:53:32 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:53:36 | Launching a JVM...
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager: Initializing...
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           could not be loaded:
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           Reported cause:
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 4    | 2013/03/10 16:53:37 | 
+INFO   | jvm 4    | 2013/03/10 16:53:37 | WrapperSimpleApp Usage:
+INFO   | jvm 4    | 2013/03/10 16:53:37 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 4    | 2013/03/10 16:53:37 | 
+INFO   | jvm 4    | 2013/03/10 16:53:37 | Where:
+INFO   | jvm 4    | 2013/03/10 16:53:37 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 4    | 2013/03/10 16:53:37 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 4    | 2013/03/10 16:53:37 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:53:38 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:53:43 | Launching a JVM...
+INFO   | jvm 5    | 2013/03/10 16:53:43 | WrapperManager: Initializing...
+INFO   | jvm 5    | 2013/03/10 16:53:44 | WrapperJNI Error: Not licensed to use this edition of the Wrapper native library. (1)
+INFO   | jvm 5    | 2013/03/10 16:53:44 | WrapperJNI Error:  This can happen if the Wrapper binary is not the same version and edition as that of the Wrapper's JNI native library file.
+INFO   | jvm 5    | 2013/03/10 16:53:44 | WrapperJNI Error: Shutting down.
+INFO   | jvm 5    | 2013/03/10 16:53:44 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 5    | 2013/03/10 16:53:44 | 
+INFO   | jvm 5    | 2013/03/10 16:53:44 | WrapperSimpleApp Usage:
+INFO   | jvm 5    | 2013/03/10 16:53:44 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 5    | 2013/03/10 16:53:44 | 
+INFO   | jvm 5    | 2013/03/10 16:53:44 | Where:
+INFO   | jvm 5    | 2013/03/10 16:53:44 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 5    | 2013/03/10 16:53:44 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 5    | 2013/03/10 16:53:44 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:53:44 | JVM exited while loading the application.
+FATAL  | wrapper  | 2013/03/10 16:53:45 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2013/03/10 16:53:45 |   There may be a configuration problem: please check the logs.
+STATUS | wrapper  | 2013/03/10 16:53:45 | <-- Wrapper Stopped
+STATUS | wrapper  | 2013/03/10 16:53:47 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:53:47 | Java Service Wrapper Community Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:53:47 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:53:47 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:53:47 | 
+STATUS | wrapper  | 2013/03/10 16:53:47 | Launching a JVM...
+INFO   | jvm 1    | 2013/03/10 16:53:47 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/03/10 16:53:48 | WrapperJNI Error: Not licensed to use this edition of the Wrapper native library. (1)
+INFO   | jvm 1    | 2013/03/10 16:53:48 | WrapperJNI Error:  This can happen if the Wrapper binary is not the same version and edition as that of the Wrapper's JNI native library file.
+INFO   | jvm 1    | 2013/03/10 16:53:48 | WrapperJNI Error: Shutting down.
+INFO   | jvm 1    | 2013/03/10 16:53:48 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 1    | 2013/03/10 16:53:48 | 
+INFO   | jvm 1    | 2013/03/10 16:53:48 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2013/03/10 16:53:48 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 1    | 2013/03/10 16:53:48 | 
+INFO   | jvm 1    | 2013/03/10 16:53:48 | Where:
+INFO   | jvm 1    | 2013/03/10 16:53:48 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2013/03/10 16:53:48 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2013/03/10 16:53:48 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:53:48 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:53:53 | Launching a JVM...
+INFO   | jvm 2    | 2013/03/10 16:53:53 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2013/03/10 16:53:53 | WrapperJNI Error: Not licensed to use this edition of the Wrapper native library. (1)
+INFO   | jvm 2    | 2013/03/10 16:53:53 | WrapperJNI Error:  This can happen if the Wrapper binary is not the same version and edition as that of the Wrapper's JNI native library file.
+INFO   | jvm 2    | 2013/03/10 16:53:53 | WrapperJNI Error: Shutting down.
+INFO   | jvm 2    | 2013/03/10 16:53:53 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 2    | 2013/03/10 16:53:53 | 
+INFO   | jvm 2    | 2013/03/10 16:53:53 | WrapperSimpleApp Usage:
+INFO   | jvm 2    | 2013/03/10 16:53:53 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 2    | 2013/03/10 16:53:53 | 
+INFO   | jvm 2    | 2013/03/10 16:53:53 | Where:
+INFO   | jvm 2    | 2013/03/10 16:53:53 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 2    | 2013/03/10 16:53:53 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 2    | 2013/03/10 16:53:53 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:53:54 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:57:49 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:57:49 | Java Service Wrapper Community Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:57:49 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:57:49 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:57:49 | 
+STATUS | wrapper  | 2013/03/10 16:57:49 | Launching a JVM...
+INFO   | jvm 1    | 2013/03/10 16:57:50 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/03/10 16:57:50 | WrapperJNI Error: Not licensed to use this edition of the Wrapper native library. (1)
+INFO   | jvm 1    | 2013/03/10 16:57:50 | WrapperJNI Error:  This can happen if the Wrapper binary is not the same version and edition as that of the Wrapper's JNI native library file.
+INFO   | jvm 1    | 2013/03/10 16:57:50 | WrapperJNI Error: Shutting down.
+INFO   | jvm 1    | 2013/03/10 16:57:50 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 1    | 2013/03/10 16:57:50 | 
+INFO   | jvm 1    | 2013/03/10 16:57:50 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2013/03/10 16:57:50 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 1    | 2013/03/10 16:57:50 | 
+INFO   | jvm 1    | 2013/03/10 16:57:50 | Where:
+INFO   | jvm 1    | 2013/03/10 16:57:50 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2013/03/10 16:57:50 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2013/03/10 16:57:50 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:57:50 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:57:55 | Launching a JVM...
+INFO   | jvm 2    | 2013/03/10 16:57:55 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2013/03/10 16:57:56 | WrapperJNI Error: Not licensed to use this edition of the Wrapper native library. (1)
+INFO   | jvm 2    | 2013/03/10 16:57:56 | WrapperJNI Error:  This can happen if the Wrapper binary is not the same version and edition as that of the Wrapper's JNI native library file.
+INFO   | jvm 2    | 2013/03/10 16:57:56 | WrapperJNI Error: Shutting down.
+INFO   | jvm 2    | 2013/03/10 16:57:56 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 2    | 2013/03/10 16:57:56 | 
+INFO   | jvm 2    | 2013/03/10 16:57:56 | WrapperSimpleApp Usage:
+INFO   | jvm 2    | 2013/03/10 16:57:56 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 2    | 2013/03/10 16:57:56 | 
+INFO   | jvm 2    | 2013/03/10 16:57:56 | Where:
+INFO   | jvm 2    | 2013/03/10 16:57:56 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 2    | 2013/03/10 16:57:56 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 2    | 2013/03/10 16:57:56 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:57:56 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:58:27 | --> Wrapper Started as Console
+STATUS | wrapper  | 2013/03/10 16:58:27 | Java Service Wrapper Community Edition 32-bit 3.5.17
+STATUS | wrapper  | 2013/03/10 16:58:27 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/03/10 16:58:27 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/03/10 16:58:27 | 
+STATUS | wrapper  | 2013/03/10 16:58:27 | Launching a JVM...
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           could not be loaded:
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           Reported cause:
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperManager: 
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 1    | 2013/03/10 16:58:28 | 
+INFO   | jvm 1    | 2013/03/10 16:58:28 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2013/03/10 16:58:28 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 1    | 2013/03/10 16:58:28 | 
+INFO   | jvm 1    | 2013/03/10 16:58:28 | Where:
+INFO   | jvm 1    | 2013/03/10 16:58:28 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2013/03/10 16:58:28 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2013/03/10 16:58:28 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:58:29 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:58:34 | Launching a JVM...
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           could not be loaded:
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 2    | 2013/03/10 16:58:34 | WrapperManager:           Reported cause:
+INFO   | jvm 2    | 2013/03/10 16:58:35 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 2    | 2013/03/10 16:58:35 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 2    | 2013/03/10 16:58:35 | WrapperManager: 
+INFO   | jvm 2    | 2013/03/10 16:58:35 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 2    | 2013/03/10 16:58:35 | 
+INFO   | jvm 2    | 2013/03/10 16:58:35 | WrapperSimpleApp Usage:
+INFO   | jvm 2    | 2013/03/10 16:58:35 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 2    | 2013/03/10 16:58:35 | 
+INFO   | jvm 2    | 2013/03/10 16:58:35 | Where:
+INFO   | jvm 2    | 2013/03/10 16:58:35 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 2    | 2013/03/10 16:58:35 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 2    | 2013/03/10 16:58:35 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:58:36 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:58:41 | Launching a JVM...
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager: Initializing...
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           could not be loaded:
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           Reported cause:
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperManager: 
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 3    | 2013/03/10 16:58:41 | 
+INFO   | jvm 3    | 2013/03/10 16:58:41 | WrapperSimpleApp Usage:
+INFO   | jvm 3    | 2013/03/10 16:58:41 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 3    | 2013/03/10 16:58:41 | 
+INFO   | jvm 3    | 2013/03/10 16:58:41 | Where:
+INFO   | jvm 3    | 2013/03/10 16:58:41 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 3    | 2013/03/10 16:58:41 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 3    | 2013/03/10 16:58:41 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:58:43 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:58:48 | Launching a JVM...
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager: Initializing...
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           could not be loaded:
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           Reported cause:
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperManager: 
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 4    | 2013/03/10 16:58:48 | 
+INFO   | jvm 4    | 2013/03/10 16:58:48 | WrapperSimpleApp Usage:
+INFO   | jvm 4    | 2013/03/10 16:58:48 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 4    | 2013/03/10 16:58:48 | 
+INFO   | jvm 4    | 2013/03/10 16:58:48 | Where:
+INFO   | jvm 4    | 2013/03/10 16:58:48 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 4    | 2013/03/10 16:58:48 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 4    | 2013/03/10 16:58:48 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:58:50 | JVM exited while loading the application.
+STATUS | wrapper  | 2013/03/10 16:58:54 | Launching a JVM...
+INFO   | jvm 5    | 2013/03/10 16:58:54 | WrapperManager: Initializing...
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager: 
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           could not be loaded:
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:             D:\Development\ComputerShutdown\bin\..\bin\native\lib64\wrapper.dll
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           Please verify that the file is both readable and executable by the
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           current user and that the file has not been corrupted in any way.
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           Reported cause:
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:             D:\Development\ComputerShutdown\bin\native\lib64\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperManager: 
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperSimpleApp Error: Unable to locate the class main.ShutdownComputer : java.lang.ClassNotFoundException: main.ShutdownComputer
+INFO   | jvm 5    | 2013/03/10 16:58:55 | 
+INFO   | jvm 5    | 2013/03/10 16:58:55 | WrapperSimpleApp Usage:
+INFO   | jvm 5    | 2013/03/10 16:58:55 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class{/app_method}} [app_arguments]
+INFO   | jvm 5    | 2013/03/10 16:58:55 | 
+INFO   | jvm 5    | 2013/03/10 16:58:55 | Where:
+INFO   | jvm 5    | 2013/03/10 16:58:55 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 5    | 2013/03/10 16:58:55 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 5    | 2013/03/10 16:58:55 |                   application.
+ERROR  | wrapper  | 2013/03/10 16:58:56 | JVM exited while loading the application.
+FATAL  | wrapper  | 2013/03/10 16:58:57 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2013/03/10 16:58:57 |   There may be a configuration problem: please check the logs.
+STATUS | wrapper  | 2013/03/10 16:58:57 | <-- Wrapper Stopped
